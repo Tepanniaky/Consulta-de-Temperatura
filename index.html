@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Temperatura</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Consultar Temperatura</h1>
+        <div class="form">
+            <label for="cep">Digite a cidade:</label>
+            <input type="text" id="cep" placeholder="Ex: São Paulo">
+            <button onclick="buscarTempo()">Buscar</button>
+        </div>
+        
+        <div class="result" id="resultado" style="display: none;">
+            <h2>Tempo:</h2>
+            <p><strong>Cidade:</strong> <span id="logradouro"></span></p>
+            <p><strong>Temperatura:</strong> <span id="Temperatura"></span></p> 
+            <p><strong>Região:</strong> <span id="regiao"></span></p>
+            <p><strong>Tempo:</strong> <span id="Tempo"></span></p>
+            <p><strong>Vento:</strong> <span id="Vento"></span></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
