@@ -41,3 +41,14 @@ cd nome-do-projeto
 
 3.Abra o arquivo index.html em seu navegador.
 
+Pronto! Agora você pode digitar o nome de uma cidade e ver a previsão do tempo.
+
+🎯 Melhorias futuras (ideias)
+Criar validação mais avançada para cidades inválidas.
+
+Exibir também a sensação térmica e umidade.
+
+Melhorar o design com animações e imagens de fundo dinâmicas.
+
+Proteger a chave da API utilizando backend em Node.js ou outro servidor.
+
