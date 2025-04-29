@@ -25,10 +25,4 @@ Permite buscar a cidade desejada e visualizar dados como temperatura, região, c
 - JavaScript (Fetch API)
 - WeatherAPI (serviço de dados meteorológicos)
 
----
 
-## 🛠️ Como usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Tepanniaky/Consulta-de-Temperatura.git
