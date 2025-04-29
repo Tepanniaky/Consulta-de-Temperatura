@@ -18,6 +18,12 @@ Permite buscar a cidade desejada e visualizar dados como temperatura, região, c
 
 ---
 
+📸 Preview
+
+<img src= "Preview" alt="Preview do Projeto" />
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
