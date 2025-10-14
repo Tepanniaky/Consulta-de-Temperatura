@@ -1,11 +1,11 @@
-# 🌤️ Consulta de Temperatura
+#  Consulta de Temperatura
 
 Projeto de consulta de informações meteorológicas em tempo real utilizando a API da WeatherAPI.  
 Permite buscar a cidade desejada e visualizar dados como temperatura, região, condição do tempo e velocidade do vento.
 
 ---
 
-## 🔥 Funcionalidades
+##  Funcionalidades
 
 - Buscar cidade por nome
 - Exibir:
@@ -24,7 +24,7 @@ Permite buscar a cidade desejada e visualizar dados como temperatura, região, c
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML5
 - CSS3 (com responsividade simples)
@@ -33,7 +33,7 @@ Permite buscar a cidade desejada e visualizar dados como temperatura, região, c
 
 ---
 
-## 🛠️ Como usar
+##  Como usar
 
 1. Clone o repositório:
    ```bash
@@ -49,7 +49,7 @@ cd nome-do-projeto
 
 Pronto! Agora você pode digitar o nome de uma cidade e ver a previsão do tempo.
 
-🎯 Melhorias futuras (ideias)
+ Melhorias futuras (ideias)
 Criar validação mais avançada para cidades inválidas.
 
 Exibir também a sensação térmica e umidade.
